@@ -125,7 +125,7 @@ function Login() {
         </p>
         {/* DIVIDER */}
       <div className="flex mt-5 items-center gap-3">
-        <div className="flex-1 h-pxn bg-gray-400"></div>
+        <div className="flex-1 h-px bg-gray-400"></div>
         <p className="text-sm text-gray-700">Or continue with</p>
         <div className="flex-1 h-px bg-gray-400"></div>
       </div>
